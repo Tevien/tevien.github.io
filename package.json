@@ -1,10 +1,10 @@
 {
-  "homepage": "https://knochenmark.github.io/gatsby-starter-level-2/",
-  "name": "gatsby-starter-level-2",
+  "homepage": "https://tevien.github.io/",
+  "name": "sb-homepage",
   "private": true,
-  "description": "A minimalistic starter to quickly set up and configure your portfolio with Gatsby",
+  "description": "Sean Benson homepage",
   "version": "0.1.0",
-  "author": "Knochenmark",
+  "author": "tevien",
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master",
     "build": "gatsby build",
@@ -57,9 +57,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knochenmark/gatsby-starter-level-2"
+    "url": "https://github.com/Tevien/tevien.github.io"
   },
   "bugs": {
-    "url": "https://github.com/knochenmark/gatsby-starter-level-2/issues"
+    "url": "https://github.com/Tevien/tevien.github.io/issues"
   }
 }

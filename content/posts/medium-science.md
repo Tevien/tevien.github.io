@@ -1,5 +1,5 @@
 ---
-date: 2020-05-31
+date: 2020-10-10
 title: 'What has fundamental science research done for me lately?'
 tags: ['CERN', 'LHC', 'PET-CT']
 published: true

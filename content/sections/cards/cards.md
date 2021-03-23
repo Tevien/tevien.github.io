@@ -1,29 +1,29 @@
 ---
 cards:
-  - label: Markdown
-    icon: markdown
-    prefix: fab
-    description: All posts, projects and sections are editable via Markdown files.
-  - label: Customizable
-    icon: palette
-    prefix: fas
-    description: All theme colors and further properties are adjustable via Css Variables.
-  - label: Configurable
+  - label: Journal of Instrumentation
     icon: cogs
     prefix: fas
-    description: Navigation and Social links can be easily adjusted via config objects.
-  - label: Projects
-    icon: terminal
+    description: A comprehensive real-time analysis model at the LHCb experiment - 10.1088/1748-0221/14/04/p04006
+  - label: Comp. Phys. Commun.
+    icon: cogs
     prefix: fas
-    description: Display your most important projects in a dedicated section or list them on the projects sub page.
-  - label: Components
-    icon: react
+    description: NNDrone, a toolkit for the mass application of machine learning in High Energy Physics -  10.1016/j.cpc.2019.03.002
+  - label: Comp. Phys. Commun.
+    icon: cogs
+    prefix: fas
+    description: Tesla, an application for real-time data analysis in High Energy Physics - 10.1016/j.cpc.2016.07.022
+  - label: SciPost Physics
+    icon: atom
+    prefix: fas
+    description:  Real-time discrimination of photon pairs using machine learning at the LHC - 10.21468/scipostphys.7.5.062
+  - label: Journal of Physics Conf. Series
+    icon: atom
     prefix: fab
-    description: Plenty of reusable components, mixins and with Emotion styled components are waiting for you.
-  - label: Integrated Blog
-    icon: feather-alt
+    description: The LHCb Turbo Stream - 10.1088/1742-6596/664/8/082004
+  - label: Physical Review Letters
+    icon: atom
     prefix: fas
-    description: Everything you need to start your integrated blog is already in place. Just start writing!
+    description: First measurement of the CP-violating phase in Bs -> phi phi decays - 10.1103/PhysRevLett.110.241802
 ---
 
-This Card-Grid component allows you to display predefined cards. You could use it like us and display features with it or you could also use it to display the services you provide for your customer. Go ahead and adjust the component to your own needs.
+Publication highlights, with corresponding DOI references of open-access documents

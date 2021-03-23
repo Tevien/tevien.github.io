@@ -48,16 +48,16 @@ const Facts = () => {
       <StyledH1>Some Interesting Facts</StyledH1>
       <StyledLogoSection>
         <StyledFactNumber>
-          <span className="number">127</span>
-          <span className="fact">Finished Projects</span>
+          <span className="number">4</span>
+          <span className="fact">PhD students supervised</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">321</span>
-          <span className="fact">Happy Customers</span>
+          <span className="number">11</span>
+          <span className="fact">International conference presentations</span>
         </StyledFactNumber>
         <StyledFactNumber>
-          <span className="number">863</span>
-          <span className="fact">Freelancing Hours</span>
+          <span className="number">15</span>
+          <span className="fact">Peer reviewed publications as main author</span>
         </StyledFactNumber>
       </StyledLogoSection>
     </StyledSkewedSection>

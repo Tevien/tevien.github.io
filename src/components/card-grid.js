@@ -55,13 +55,13 @@ const StyledFeatureDescription = styled.p`
 `;
 
 const CardGrid = ({ cards, description, title, id = null }) => {
-  const featureCards = cards.map(({ icon, prefix, label, description }, index) => {
+  const featureCards = cards.map(({ icon, prefix, label, description}, index) => {
     return (
       <StyledFeatureCard key={index}>
-        <Icon icon={icon} prefix={prefix} />
         <StyledCardLabel>{label}</StyledCardLabel>
         <StyledDivider></StyledDivider>
         <StyledFeatureDescription>{description}</StyledFeatureDescription>
+        <a href={icon} title="Paper" class="external" target="_blank"><Icon icon={"external-link-alt"} prefix={prefix} /></a>
       </StyledFeatureCard>
     );
   });
@@ -78,6 +78,7 @@ const CardGrid = ({ cards, description, title, id = null }) => {
 CardGrid.propTypes = {
   cards: PropTypes.array.isRequired,
   description: PropTypes.string.isRequired,
+  paper: PropTypes.string.isRequired,
   id: PropTypes.string,
   title: PropTypes.string,
 };

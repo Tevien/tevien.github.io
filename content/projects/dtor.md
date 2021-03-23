@@ -7,4 +7,8 @@ repo_link: 'https://github.com/Tevien/dtor'
 techs: ['Python', 'Pytorch']
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+A project used to perform 3D and 2D model training in pytorch
+based on weak labels to medical imaging data. The project allows training
+to use more than 50 pre-trained backbones including ResNet, VGG, and the backbones
+provided by torchvision to determine the features associated
+with the desired label.

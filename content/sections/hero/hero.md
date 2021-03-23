@@ -1,10 +1,10 @@
 ---
 introduction: "hey it's me"
-tagline: 'Design. Code. Experiment'
-cta_label: 'View Documentation'
-cta_link: 'https://github.com/Knochenmark/gatsby-starter-level-2/blob/master/README.md'
+tagline: 'Research. Code. Deploy.'
+cta_label: 'Research'
+cta_link: 'https://www.researchgate.net/profile/Sean-Benson-4'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy eirmod tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+AI researcher, Radiology department of the Netherlands Cancer Institute 
+interested in th development of new models using imaging data to detect cancer
+and predict treatment response.

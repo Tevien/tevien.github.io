@@ -2,6 +2,7 @@ module.exports = {
   pathPrefix: '',
   siteMetadata: {
     title: 'Level 2',
+    titleTemplate: '%s · Level 2',
     image: '/images/logo.png',
     author: 'Sean Benson',
     description: '.',

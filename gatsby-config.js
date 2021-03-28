@@ -2,16 +2,16 @@ module.exports = {
   pathPrefix: '',
   siteMetadata: {
     title: 'Level 2',
-    titleTemplate: '%s · Level 2',
     image: '/images/logo.png',
     author: 'Sean Benson',
     description: '.',
-    url: 'https://github.com/Tevien/tevien.github.io',
+    url: 'https://tevien.github.io',
     paginationPageSize: 4, // Amount of posts displayed per listing page.
   },
   plugins: [
     `gatsby-plugin-stylus`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-advanced-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
